@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 08:12:46</sys_created_on>
+        <sys_id>8b2f2a18c312021031f0171ed4013146</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1319918_device_request.x_1319918_device.end_user</sys_name>
+        <sys_package display_value="Tech Device" source="x_1319918_device">859ce6d0c312021031f0171ed40131ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Device">859ce6d0c312021031f0171ed40131ef</sys_scope>
+        <sys_security_acl display_value="x_1319918_device_request">8f2f2a18c312021031f0171ed4013143</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_8b2f2a18c312021031f0171ed4013146</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 08:12:46</sys_updated_on>
+        <sys_user_role display_value="x_1319918_device.end_user" name="x_1319918_device.end_user">f38eead4c312021031f0171ed4013143</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
