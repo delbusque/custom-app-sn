@@ -7,22 +7,22 @@
         <hint/>
         <name>AI Devices</name>
         <order>100</order>
-        <roles>x_1319918_device.ai_devices_user</roles>
+        <roles>x_1319918_device.device_management,x_1319918_device.dispatch_management,x_1319918_device.end_user,x_1319918_device.release_management</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-05-17 08:27:32</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>cb82f25cc312021031f0171ed4013120</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>AI Tech Devices</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Tech Devices" source="x_1319918_device">859ce6d0c312021031f0171ed40131ef</sys_package>
+        <sys_package display_value="Tech Device" source="x_1319918_device">859ce6d0c312021031f0171ed40131ef</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Tech Devices">859ce6d0c312021031f0171ed40131ef</sys_scope>
+        <sys_scope display_value="Tech Device">859ce6d0c312021031f0171ed40131ef</sys_scope>
         <sys_update_name>sys_app_application_cb82f25cc312021031f0171ed4013120</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-17 17:56:55</sys_updated_on>
+        <sys_updated_on>2024-05-20 06:27:01</sys_updated_on>
         <title>AI Tech Devices</title>
         <view_name/>
     </sys_app_application>
