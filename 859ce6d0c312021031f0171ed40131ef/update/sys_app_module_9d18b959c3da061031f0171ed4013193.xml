@@ -8,34 +8,34 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>SEPARATOR</link_type>
         <map_page/>
-        <mobile_title>Device Requests</mobile_title>
+        <mobile_title>Separator</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_1319918_device_device_requests</name>
-        <order/>
+        <name/>
+        <order>250</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles>x_1319918_device.device_management,x_1319918_device.dispatch_management,x_1319918_device.end_user,x_1319918_device.release_management</roles>
+        <roles>admin,x_1319918_device.release_management,x_1319918_device.end_user,x_1319918_device.dispatch_management,x_1319918_device.device_management</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-05-17 15:27:30</sys_created_on>
+        <sys_created_on>2024-05-20 06:47:03</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>cfa214e4c31a021031f0171ed4013130</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Device Requests</sys_name>
+        <sys_id>9d18b959c3da061031f0171ed4013193</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name/>
         <sys_overrides/>
         <sys_package display_value="Tech Device" source="x_1319918_device">859ce6d0c312021031f0171ed40131ef</sys_package>
         <sys_policy/>
         <sys_scope display_value="Tech Device">859ce6d0c312021031f0171ed40131ef</sys_scope>
-        <sys_update_name>sys_app_module_cfa214e4c31a021031f0171ed4013130</sys_update_name>
+        <sys_update_name>sys_app_module_9d18b959c3da061031f0171ed4013193</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-05-20 06:32:50</sys_updated_on>
+        <sys_updated_on>2024-05-20 07:21:26</sys_updated_on>
         <timeline_page/>
-        <title>Device Requests</title>
+        <title/>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>
