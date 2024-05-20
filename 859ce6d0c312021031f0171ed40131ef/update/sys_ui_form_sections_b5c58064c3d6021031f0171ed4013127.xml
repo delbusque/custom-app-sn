@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b5c58064c3d6021031f0171ed4013127" sys_domain="global" table="x_1319918_device_ai_devices" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-17 14:31:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7dc58064c3d6021031f0171ed401312b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1319918_device_ai_devices" name="x_1319918_device_ai_devices" sys_domain="global" view="Default view">b5c58064c3d6021031f0171ed4013127</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1319918_device_ai_devices" sys_domain="global" view="Default view">0b04c4a0c3d6021031f0171ed4013169</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-17 14:31:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-17 14:31:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>79c58064c3d6021031f0171ed401312c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1319918_device_ai_devices" name="x_1319918_device_ai_devices" sys_domain="global" view="Default view">b5c58064c3d6021031f0171ed4013127</sys_ui_form>
+            <sys_ui_section caption="Price &amp; Warranty" display_value="Price &amp; Warranty" name="x_1319918_device_ai_devices" sys_domain="global" view="Default view">35c58064c3d6021031f0171ed4013126</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-17 14:31:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1319918_device_ai_devices</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-17 14:31:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5c58064c3d6021031f0171ed4013127</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1319918_device_ai_devices</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Tech Devices" source="x_1319918_device">859ce6d0c312021031f0171ed40131ef</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Tech Devices">859ce6d0c312021031f0171ed40131ef</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b5c58064c3d6021031f0171ed4013127</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-17 14:31:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

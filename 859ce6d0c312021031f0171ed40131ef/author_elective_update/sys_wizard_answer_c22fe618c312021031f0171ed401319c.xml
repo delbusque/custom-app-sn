@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>New Device Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Device Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">4b8574397d31311076daf29f52070d17</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 08:12:43</sys_created_on>
+        <sys_id>c22fe618c312021031f0171ed401319c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device Request</sys_name>
+        <sys_package display_value="Tech Device" source="x_1319918_device">859ce6d0c312021031f0171ed40131ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Device">859ce6d0c312021031f0171ed40131ef</sys_scope>
+        <sys_update_name>sys_wizard_answer_c22fe618c312021031f0171ed401319c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 08:12:43</sys_updated_on>
+        <table/>
+        <target_url>x_1319918_device_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Devices">859ce6d0c312021031f0171ed40131ef</application>
+        <file_path/>
+        <instance_id>dddff9311bc1425432182f8dee4bcb45</instance_id>
+        <instance_name>dev247061</instance_name>
+        <name>sys_wizard_answer_c22fe618c312021031f0171ed401319c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>New Device Request</answer><button_label/><dependent_value/><element/><name>Device Request</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">4b8574397d31311076daf29f52070d17</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-17 08:12:43</sys_created_on><sys_id>c22fe618c312021031f0171ed401319c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Device Request</sys_name><sys_package display_value="Tech Device" source="x_1319918_device">859ce6d0c312021031f0171ed40131ef</sys_package><sys_policy/><sys_scope display_value="Tech Device">859ce6d0c312021031f0171ed40131ef</sys_scope><sys_update_name>sys_wizard_answer_c22fe618c312021031f0171ed401319c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-17 08:12:43</sys_updated_on><table/><target_url>x_1319918_device_request.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-425859730</payload_hash>
+        <record_name>Device Request</record_name>
+        <reverted_from/>
+        <source>599ce6d0c312021031f0171ed40131f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 08:12:43</sys_created_on>
+        <sys_id>922fe618c312021031f0171ed401319f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f859c4a020000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 08:12:43</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>462fe618c3120210bda144f1f67e5c9e</update_guid>
+        <update_guid_history>462fe618c3120210bda144f1f67e5c9e:-425859730</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 15:21:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>03421bc2b02445fc82eccb1a8ec734c4</sys_id>
+        <sys_metadata>c22fe618c312021031f0171ed401319c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Device Request</sys_name>
+        <sys_package display_value="Tech Devices" source="x_1319918_device">859ce6d0c312021031f0171ed40131ef</sys_package>
+        <sys_parent display_value="Task">4b8574397d31311076daf29f52070d17</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Tech Devices">859ce6d0c312021031f0171ed40131ef</sys_scope>
+        <sys_scope_delete display_value="">aa0c921b59a348c192e76ca073750ac1</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_c22fe618c312021031f0171ed401319c</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_c22fe618c312021031f0171ed401319c">922fe618c312021031f0171ed401319f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 15:21:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

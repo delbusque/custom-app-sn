@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1319918_device_request</name>
+        <order>2</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 08:15:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d9dfe658c312021031f0171ed401318a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Tech Devices" source="x_1319918_device">859ce6d0c312021031f0171ed40131ef</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Tech Devices">859ce6d0c312021031f0171ed40131ef</sys_scope>
+        <sys_update_name>sys_app_module_d9dfe658c312021031f0171ed401318a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 08:15:40</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Tech Devices">859ce6d0c312021031f0171ed40131ef</application>
+        <file_path/>
+        <instance_id>dddff9311bc1425432182f8dee4bcb45</instance_id>
+        <instance_name>dev247061</instance_name>
+        <name>sys_app_module_d9dfe658c312021031f0171ed401318a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application/><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1319918_device_request</name><order>2</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-05-17 08:15:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d9dfe658c312021031f0171ed401318a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="Tech Devices" source="x_1319918_device">859ce6d0c312021031f0171ed40131ef</sys_package><sys_policy/><sys_scope display_value="Tech Devices">859ce6d0c312021031f0171ed40131ef</sys_scope><sys_update_name>sys_app_module_d9dfe658c312021031f0171ed401318a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-05-17 08:15:40</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1678520196</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>66507a58c312021031f0171ed4013199</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 09:08:40</sys_created_on>
+        <sys_id>f9fb7298c352021031f0171ed40131d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f85cf83c50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 09:08:40</sys_updated_on>
+        <type>Module</type>
+        <update_guid>f5fb7298c6520210b32c6f2b74d464d4</update_guid>
+        <update_guid_history>f5fb7298c6520210b32c6f2b74d464d4:0,11dfe6583c120210d6437d47cc94098c:1040193555</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">8351d464c31a021031f0171ed4013166</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-17 15:21:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>9b059756f5a14ad89f4a1f8adc4d6a69</sys_id>
+        <sys_metadata>d9dfe658c312021031f0171ed401318a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="Tech Devices" source="x_1319918_device">859ce6d0c312021031f0171ed40131ef</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Tech Devices">859ce6d0c312021031f0171ed40131ef</sys_scope>
+        <sys_scope_delete display_value="">aa0c921b59a348c192e76ca073750ac1</sys_scope_delete>
+        <sys_update_name>sys_app_module_d9dfe658c312021031f0171ed401318a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d9dfe658c312021031f0171ed401318a">f9fb7298c352021031f0171ed40131d4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-17 15:21:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
